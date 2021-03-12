@@ -5,11 +5,12 @@ source_metadata:
   title: བོད་སྐད་ཚིག་རྐང་ཉིས་སྟོང་བསླབ།
   author: ''
   volumes:
-    a6a568e4a82a4f11bb5da703fc587883:
+    e79f9c681e5c4fbb8b7d8a88186b3b55:
       image_group_id: I2PD17828
-      title: ''
+      title: Volume 1 of bod skad tshig rkang nyis stong bslab/
       volume_number: 1
       total_pages: 330
+      base_file: v001.txt
 ebook_metadata:
   title: བོད་སྐད་ཚིག་རྐང་ཉིས་སྟོང་བསླབ།
   author: ''
